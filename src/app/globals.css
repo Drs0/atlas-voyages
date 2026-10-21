@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+:root {
+  --midnight-navy: #142B3B;
+  --desert-gold: #C8A46A;
+  --warm-ivory: #FAF8F3;
+  --terracotta: #B66A4B;
+  --charcoal: #26343B;
+  --card-bg: #FFFFFF;
+  --border-light: #EBE5D8;
+}
+
+@theme inline {
+  --color-midnight: var(--midnight-navy);
+  --color-gold: var(--desert-gold);
+  --color-ivory: var(--warm-ivory);
+  --color-terracotta: var(--terracotta);
+  --color-charcoal: var(--charcoal);
+  --color-card: var(--card-bg);
+  --color-border-subtle: var(--border-light);
+  --font-serif: var(--font-playfair), Georgia, serif;
+  --font-sans: var(--font-jakarta), var(--font-noto-arabic), system-ui, sans-serif;
+}
+
+body {
+  background-color: var(--warm-ivory);
+  color: var(--charcoal);
+  font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+}
+
+[dir="rtl"] .rtl-flip {
+  transform: scaleX(-1);
+}

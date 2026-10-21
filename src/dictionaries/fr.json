@@ -1,0 +1,110 @@
+{
+  "demo": {
+    "badge": "Projet de Démonstration Fictif",
+    "notice": "Ce site est une démonstration technique indépendante pour agences de voyages marocaines. Les forfaits, prix et coordonnées sont strictement fictifs. Aucune réservation ni paiement réel n'est effectué.",
+    "sampleTag": "Exemple indicatif",
+    "fictionalAgency": "Agence modèle fictive à vocation de démonstration"
+  },
+  "nav": {
+    "brand": "Atlas Voyages",
+    "home": "Accueil",
+    "destinations": "Circuits & Séjours",
+    "about": "Notre Vision",
+    "contact": "Contact",
+    "inquireCta": "Demander un devis"
+  },
+  "hero": {
+    "tagline": "Voyages d'exception au Maroc",
+    "title": "L'Art du Circuit Sur-Mesure",
+    "subtitle": "Présentation d'une expérience digitale haut de gamme pour valoriser vos circuits sahariens, impériaux et montagnards.",
+    "ctaExplore": "Explorer les circuits",
+    "ctaInquire": "Personnaliser un itinéraire"
+  },
+  "pillars": {
+    "title": "Ce que vos voyageurs apprécieront",
+    "subtitle": "Une interface pensée pour la clarté, l'immersion visuelle et la conversion directe sur WhatsApp.",
+    "item1Title": "Circuits Immersifs",
+    "item1Desc": "Fiches détaillées, itinéraires clairs au jour le jour et sélection d'étapes phares.",
+    "item2Title": "Bilingue Intégral",
+    "item2Desc": "Prise en charge native du français et de l'arabe (RTL) sans rupture graphique.",
+    "item3Title": "Conversion WhatsApp",
+    "item3Desc": "Génération instantanée de messages de réservation précis, prêts à être transmis sur WhatsApp."
+  },
+  "featured": {
+    "title": "Circuits Vedettes",
+    "subtitle": "Trois expériences représentatives du potentiel touristique marocain.",
+    "viewAll": "Voir tous les circuits"
+  },
+  "destinations": {
+    "title": "Nos Circuits & Expériences",
+    "subtitle": "Une sélection de voyages conçus pour inspirer vos futurs clients.",
+    "filterAll": "Tous les circuits",
+    "filterDesert": "Désert & Dunes",
+    "filterImperial": "Cités Impériales",
+    "filterAtlas": "Haut Atlas & Montagnes",
+    "startingFrom": "À partir de",
+    "perPerson": "/ personne",
+    "durationDays": "jours",
+    "durationNights": "nuits",
+    "viewDetails": "Découvrir le circuit"
+  },
+  "packageDetail": {
+    "backToDestinations": "Retour aux circuits",
+    "overviewTitle": "Présentation du voyage",
+    "itineraryTitle": "Itinéraire jour par jour",
+    "day": "Jour",
+    "inclusionsTitle": "Ce qui est inclus (Exemple)",
+    "exclusionsTitle": "Ce qui n'est pas inclus",
+    "bestSeason": "Saison idéale",
+    "duration": "Durée",
+    "indicativePrice": "Tarif indicatif d'exemple"
+  },
+  "inquiry": {
+    "title": "Demande de Devis Express",
+    "subtitle": "Configurez votre voyage et générez un message WhatsApp clair et formaté.",
+    "selectedPackage": "Circuit concerné",
+    "selectPlaceholder": "Choisissez un circuit...",
+    "dateLabel": "Date envisagée de départ",
+    "travelersLabel": "Voyageurs (Adultes)",
+    "childrenLabel": "Enfants (moins de 12 ans)",
+    "styleLabel": "Style d'hébergement souhaité",
+    "styleRiad": "Riad de Charme & Bivouac Confort",
+    "styleLuxury": "Luxe & Bivouac VIP",
+    "styleStandard": "Authentique & Convivial",
+    "notesLabel": "Demandes spécifiques ou souhaits particuliers",
+    "notesPlaceholder": "Ex. Transfert aéroport, régime alimentaire, halte supplémentaire...",
+    "previewTitle": "Message WhatsApp prêt à l'envoi :",
+    "copyButton": "Copier le message",
+    "copiedFeedback": "Copié dans le presse-papier !",
+    "agencyCalloutTitle": "Comment cela fonctionne pour votre agence :",
+    "agencyCalloutText": "Dans la version personnalisée pour votre agence, ce bouton ouvrira directement WhatsApp avec votre numéro professionnel officiel et le message pré-rempli. Aucun numéro réel n'est sollicité dans cette version de démonstration."
+  },
+  "about": {
+    "title": "Notre Vision du Voyage Marocain",
+    "subtitle": "Un exemple de présentation éditoriale valorisant le savoir-faire et l'accueil local.",
+    "storyTitle": "L'exigence au service de la découverte",
+    "storyP1": "Cette page démontre comment une agence de voyages locale peut articuler son identité : une passion partagée pour les richesses culturelles marocaines, le respect des traditions et l'attention portée aux voyageurs.",
+    "storyP2": "L'approche valorise la clarté des propositions et la personnalisation de chaque étape, loin des offres impersonnelles de masse.",
+    "demoDisclaimerTitle": "Précision sur la démonstration",
+    "demoDisclaimerP": "Atlas Voyages est une marque conceptuelle créée par un développeur web indépendant pour illustrer les standards digitaux modernes. Aucun engagement opérationnel, affiliation officielle ou agrément de transport n'est revendiqué."
+  },
+  "contact": {
+    "title": "Contact & Échange",
+    "subtitle": "Échangez avec votre future équipe de conseillers voyage.",
+    "agencyCardTitle": "Coordonnées de l'agence (Exemple)",
+    "addressTitle": "Bureau d'accueil (Fictif)",
+    "addressValue": "Avenue Mohammed V, Guéliz, Marrakech, Maroc",
+    "hoursTitle": "Disponibilité téléphonique",
+    "hoursValue": "Lundi au Samedi : 09h00 - 18h30 (Heure Maroc)",
+    "emailTitle": "Courriel professionnel (Exemple)",
+    "emailValue": "contact@exemple-atlas-voyages.ma",
+    "inquirySectionTitle": "Générateur de message direct",
+    "inquirySectionSubtitle": "Testez la génération de message pour une demande sur-mesure."
+  },
+  "footer": {
+    "tagline": "Démonstration technologique haut de gamme pour le tourisme marocain.",
+    "quickLinks": "Navigation",
+    "legalNote": "Site de démonstration indépendant sans but commercial direct. Ne recueille aucune donnée personnelle.",
+    "developerNote": "Conception & Développement Web pour agences et créateurs de voyages au Maroc."
+  }
+}
